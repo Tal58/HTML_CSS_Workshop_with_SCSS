@@ -27,7 +27,6 @@
       |----_footer.scss/ 
       |----_header.scss/ 
       |----_index.scss/ 
-|----style.scss/
 ```
 <center> ⌛ Happy Coding  ✍ </center>
 
