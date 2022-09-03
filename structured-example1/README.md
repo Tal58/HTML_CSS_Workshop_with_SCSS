@@ -6,5 +6,33 @@
 
 🔗 Also this workshop shows the evolution of my capabilities.
 
+# :octocat: Structure of file directory:
+
+style.css.map/
+|
+style.css/
+|
+index.html/
+|
+README.md/
+|
+images/
+|
+SASS/
+|
+|-abstracts/
+|      |-_mixins.scss         
+|      |-_variable.scss         
+|-base/
+|      |-_reset.scss  
+|-components/
+|      |-_articles.scss         
+|      |-_banner.scss 
+|      |-_cards.scss 
+|      |-_footer.scss 
+|      |-_header.scss 
+|      |-_index.scss 
+|-style.scss/
+
 <center> ⌛ Happy Coding  ✍ </center>
 
