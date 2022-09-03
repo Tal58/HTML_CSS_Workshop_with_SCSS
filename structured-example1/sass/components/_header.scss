@@ -1,0 +1,33 @@
+
+/*******************/ 
+/* Header
+/******************/ 
+@use "../abstracts/variables" as *;
+
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: $navBgColor;
+    align-items: center;
+    padding: 1rem;
+    ul{
+      list-style-type: none;
+      li{
+        display: inline-block;
+        padding: 0.5rem;
+        &:hover{
+          text-decoration: underline;
+        }
+      }
+    }
+    img{
+      width: 80px;
+      border: $myBorder;
+      border-radius: 10px;
+    }
+    a{
+    color: $fontColor;
+    text-decoration: none;
+    }
+  }
+  
