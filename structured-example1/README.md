@@ -15,18 +15,18 @@
 |----README.md/
 |----images/
 |----SASS/
-|----abstracts/
-      |----_mixins.scss/         
-      |----_variable.scss/         
-|----base/
-      |----_reset.scss/ 
-|----components/
-      |----_articles.scss/         
-      |----_banner.scss/
-      |----_cards.scss/ 
-      |----_footer.scss/ 
-      |----_header.scss/ 
-      |----_index.scss/ 
+      |----abstracts/
+            |----_mixins.scss/         
+            |----_variable.scss/         
+      |----base/
+            |----_reset.scss/ 
+      |----components/
+            |----_articles.scss/         
+            |----_banner.scss/
+            |----_cards.scss/ 
+            |----_footer.scss/ 
+            |----_header.scss/ 
+            |----_index.scss/ 
 ```
 <center> ⌛ Happy Coding  ✍ </center>
 
