@@ -6,6 +6,8 @@
 
 🔗 Also this workshop shows the evolution of my capabilities.
 
+🔗 To see live version 🎯https://tal58.github.io/Text_Editor/
+
 #  ![image](https://user-images.githubusercontent.com/107097793/188270568-fc338145-c8d2-40a8-b1b6-5c47e71d81d4.png)Structure of file directory:
 
 ```
